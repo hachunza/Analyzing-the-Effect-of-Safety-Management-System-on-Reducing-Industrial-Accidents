@@ -4,7 +4,7 @@ This paper is my first paper and a bit of a trade-off in itself. I intended it a
 # 안전보건 관리 체계의 산업재해 감소효과 분석 – 불균형 패널데이터의 PPML 모델을 중심으로
 Analyzing the Effect of Safety Management System on Reducing Industrial Accidents - Focusing on the PPML Model for Unbalanced Panel Data
 
-* author: Heymi Hah et al. *
+* author: Heymi Hah et al. 
 
 ## 서론
 산업재해는 근로자의 생명과 건강을 위협할 뿐 아니라 사업장에도 직간접적 비용을 초래하는 중요한 경영 리스크다. 특히 소규모 사업장은 재해 위험이 상대적으로 높지만, 안전관리체계의 효과는 주로 외부 점검이나 규제 중심으로 논의되어 왔다. 이에 본 연구는 법적 의무 설치 대상이 아닌 중소기업에서 자율적으로 도입한 안전관리체계가 실제 산업재해 감소와 관련되는지를 검증하고자 하였다.  ￼
