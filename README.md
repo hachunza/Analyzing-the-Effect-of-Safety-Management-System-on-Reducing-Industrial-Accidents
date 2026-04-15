@@ -7,7 +7,9 @@ Analyzing the Effect of Safety Management System on Reducing Industrial Accident
 This paper is my first paper and a bit of a trade-off in itself. I intended it as a practice paper, but it ended up being more rough and underdeveloped than I expected. It would probably be best read with generous eyes.
 
 ## 서론
-산업재해는 근로자의 생명과 건강을 위협할 뿐 아니라 사업장에도 직간접적 비용을 초래하는 중요한 경영 리스크다. 특히 소규모 사업장은 재해 위험이 상대적으로 높지만, 안전관리체계의 효과는 주로 외부 점검이나 규제 중심으로 논의되어 왔다. 이에 본 연구는 법적 의무 설치 대상이 아닌 중소기업에서 자율적으로 도입한 안전관리체계가 실제 산업재해 감소와 관련되는지를 검증하고자 하였다.  ￼
+산업재해는 근로자의 생명과 건강을 위협할 뿐 아니라 사업장에도 직간접적 비용을 초래하는 중요한 경영 리스크다. 특히 소규모 사업장은 재해 위험이 상대적으로 높지만, 안전관리체계의 효과는 주로 외부 점검이나 규제 중심으로 논의되어 왔다. 이에 본 연구는 법적 의무 설치 대상이 아닌 중소기업에서 자율적으로 도입한 안전관리체계가 실제 산업재해 감소와 관련되는지를 검증하고자 하였다. 
+또한 Randomized Government Safety Inspections Reduce Worker Injuries with No Detectable Job Loss 
+David I. Levine,1 Michael W. Toffel,2* Matthew S. Johnson3￼의 논문을 레퍼런스로 하여 한국의 상황에 맞춰서 새롭게 develop 한 논문이다. (벤치마킹 논문은 pptx_files에 첨부하겠다.)
 
 ## 본론
 본 연구는 2017년, 2019년, 2021년 사업장 패널 데이터를 활용하여 안전관리체계 보유 사업장과 미보유 사업장을 비교하였다. 의무 설치 대상 사업장을 제외한 뒤 2017년 기준 1:1 성향점수 매칭으로 처치군과 대조군을 각각 415개씩 구성하였고, 총 2,490개의 사업장-연도 관측치를 분석에 사용하였다. 분석 결과, 안전관리체계를 보유한 사업장은 그렇지 않은 사업장보다 산업재해 발생률이 유의하게 낮은 것으로 나타났으며, 특히 연도 고정효과를 포함한 모형에서는 2021년 시점에서 추가적인 감소 효과가 확인되었다. 이는 안전관리체계의 효과가 도입 직후보다 일정 기간 운영이 정착된 이후 더 뚜렷하게 나타날 수 있음을 시사한다.  ￼  ￼
